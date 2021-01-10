@@ -4,9 +4,11 @@ body {
 	animation: gradient 15s ease infinite;
 	text-align: center;
 	font-family:'Lato', sans-serif;
-	 display: block;
-    margin-left: auto;
-    margin-right: auto
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
 	
 
 
