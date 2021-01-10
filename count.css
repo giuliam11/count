@@ -4,6 +4,9 @@ body {
 	animation: gradient 15s ease infinite;
 	text-align: center;
 	font-family:'Lato', sans-serif;
+	 display: block;
+    margin-left: auto;
+    margin-right: auto
 	
 
 
