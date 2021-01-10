@@ -11,9 +11,9 @@ body {
     transform: translate(-50%, -50%) 
 }
 
-input { border-radius: 9999em;
+input { 
 	padding: 3px;
-	font-size: 1.3em;
+	font-size: 1.2em;
 }
 
 @keyframes gradient {
