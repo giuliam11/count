@@ -9,9 +9,11 @@ body {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%) 
-	
+}
 
-
+input { border-radius: 9999em;
+	padding: 3px;
+	font-size: 1.3em;
 }
 
 @keyframes gradient {
